@@ -13,15 +13,14 @@ html {
 
 header {
 
-    display:flex;
-    flex-flow:row wrap;
+    
     
     
 }
 
 header .img {
 
-    flex-grow: 2;
+    
     
 }
 
