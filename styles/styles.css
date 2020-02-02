@@ -1,12 +1,18 @@
 html {
     font-size: 16px;
     box-sizing: border-box;
+    background-color: lawngreen;
 }
 
 *,
 *:before,
 *:after {
     box-sizing: inherit;
+}
+
+body {
+
+    
 }
 
 
@@ -18,24 +24,10 @@ header {
     
 }
 
-header .img {
+.headerwrapper {
 
-    
-    
+    display:flex;
 }
-
-nav .navlist {
-
-    
-}
-h1 {
-    font-size: 4rem;
-}
-
-.navlist li {
-    display: inline-block;
-}
-
 .button {
     border: solid 1px #000;
     border-radius: 4px;
@@ -47,6 +39,10 @@ h1 {
 .solid {
     background-color: #ff0000;
     color: #FFF;
+}
+
+.navlist li {
+    display: inline-block;
 }
 
 
