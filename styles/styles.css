@@ -1,65 +1,16 @@
-html {
-    font-size: 16px;
-    box-sizing: border-box;
-    
-}
-
-*,
-*:before,
-*:after {
-    box-sizing: inherit;
-}
-
-header .img {
-
-    text-align: center;
-}
-.nav{
-   
-    
-    list-style:none;
-    margin:0;
-    padding:0;
-    text-align:center;
-}
-.nav li{
+li {
     display:inline-block;
 }
-.nav a{
-    display:inline-block;
-    padding:10px;
-}
 
 
-.button {
-    border: solid 1px #000;
-    border-radius: 4px;
-    padding: 8px;
-    text-decoration: none;
-    line-height: 1;
+header {
     
 }
 
-.solid {
-    background-color: #ff0000;
-    color: #FFF;
-}
 
-.hero {
-
-    display:flex;
+nav {
+    
     
 }
-
-.call-to-action {
-
-    display:block;
-    flex-flow: row nowrap;
-    align-items: center;
-    background-image: url("/dribble_concept.jpg");
-    background-size:contain; 
-    height: 394px;
-}
-
  
 
