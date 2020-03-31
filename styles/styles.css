@@ -1,9 +1,13 @@
-li {
-    display:inline-block;
-}
+html {
+    box-sizing: border-box;
+  }
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
 
 
 header, .hero {
+    position: relative;
     display: flex;
     max-width: 90vw;
     margin: 0 auto;
@@ -13,14 +17,25 @@ header, .hero {
 
 
 .header-logo {
-    max-width: 50%;
-    
+  
+   width: 50%;
+
 }
 
 .nav-wrapper {
-    margin-right: 42%;
+    width: 50%;
 }
  
+ul {
+    display: flex;
+}
+
+li {
+    display:inline-block;
+    
+}
+
+
 
 .hero {
 
