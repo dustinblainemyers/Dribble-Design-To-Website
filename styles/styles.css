@@ -12,15 +12,25 @@ header, .hero {
 }
 
 
-nav {
+.header-logo {
+    max-width: 50%;
     
-    
+}
+
+.nav-wrapper {
+    margin-right: 42%;
 }
  
 
 .hero {
 
     background-color: orange;
-    
+   
+}
+
+.conceptdiv {
+    min-width: 50%;
+    background-color: blue;
+
 }
 
