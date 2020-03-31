@@ -3,7 +3,7 @@ li {
 }
 
 
-header {
+header, .hero {
     display: flex;
     max-width: 90vw;
     margin: 0 auto;
@@ -17,4 +17,10 @@ nav {
     
 }
  
+
+.hero {
+
+    background-color: orange;
+    
+}
 
