@@ -27,12 +27,14 @@ header, .hero {
 }
  
 ul {
-    display: flex;
+    
+    padding:0px;
+    
 }
 
 li {
     display:inline-block;
-    
+    padding-right: 10px;
 }
 
 
