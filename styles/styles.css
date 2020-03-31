@@ -5,8 +5,10 @@ li {
 
 header {
     display: flex;
+    max-width: 90vw;
+    margin: 0 auto;
     justify-content: space-between;
-    
+    background-color: yellow;
 }
 
 
