@@ -8,12 +8,14 @@ html {
 
 header, .hero {
     position: relative;
-    display: flex;
+   
     max-width: 90vw;
     margin: 0 auto;
     justify-content: space-between;
     background-color: yellow;
 }
+
+
 
 
 .header-logo {
@@ -51,3 +53,8 @@ li {
 
 }
 
+header {
+
+    height:100px;
+    display: flex;
+}
