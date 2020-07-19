@@ -1,20 +1,3 @@
-<<<<<<< HEAD
-html {
-    box-sizing: border-box;
-  }
-  *, *:before, *:after {
-    box-sizing: inherit;
-  }
-
-
-header, .hero {
-    position: relative;
-   
-    max-width: 90vw;
-    margin: 0 auto;
-    justify-content: space-between;
-    background-color: yellow;
-=======
 *,
 *:before,
 *:after {
@@ -49,7 +32,6 @@ body {
 
 .main-header__brand span {
   font-weight: bold;
->>>>>>> a03ac4b94969e8c1efcba7438d97f0aebbb658b7
 }
 
 .stylized-1 {
@@ -64,50 +46,6 @@ body {
   border-radius: 300px;
 }
 
-<<<<<<< HEAD
-
-
-.header-logo {
-  
-   width: 50%;
-
-}
-
-.nav-wrapper {
-    width: 50%;
-}
- 
-ul {
-    
-    padding:0px;
-    
-}
-
-li {
-    display:inline-block;
-    padding-right: 10px;
-}
-
-
-
-.hero {
-
-    background-color: orange;
-   
-}
-
-.conceptdiv {
-    min-width: 50%;
-    background-color: blue;
-
-}
-
-header {
-
-    height:100px;
-    display: flex;
-}
-=======
 .stylized-2 {
   position: absolute;
   left: 80%;
@@ -174,4 +112,3 @@ header {
   border: solid rgba(255, 0, 0, 0);
   border-right: 30px;
 }
->>>>>>> a03ac4b94969e8c1efcba7438d97f0aebbb658b7
